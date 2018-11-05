@@ -1,0 +1,28 @@
+{
+  "name": "bit-blog",
+  "version": "1.0.0",
+  "description": "blog system powered by node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichi-bit/bit-blog.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "GraphQL",
+    "Scss",
+    "Node.js",
+    "Express"
+  ],
+  "author": "ichi-bit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ichi-bit/bit-blog/issues"
+  },
+  "homepage": "https://github.com/ichi-bit/bit-blog#readme"
+}
